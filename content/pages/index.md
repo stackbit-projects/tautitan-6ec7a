@@ -5,12 +5,12 @@ sections:
     type: section_hero
     title: Hero Section
     image: images/5.jpg
-    content: >
+    content: |
       Test editing.
 
+      Very good. 
 
-      Very good, now I can change the content of the web by just typing to the
-      code editor.
+      now I can change the content of the web by just typing to the code editor.
     actions:
       - label: Get Started
         url: /docs
