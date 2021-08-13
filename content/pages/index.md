@@ -7,7 +7,7 @@ sections:
     image: images/5.jpg
     content: >-
       Test editing.
-      \n
+      /n
       Very good, now I can change the content of the web by just typing to the code editor.
     actions:
       - label: Get Started
